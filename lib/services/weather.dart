@@ -1,7 +1,7 @@
 import 'package:clima/services/location.dart';
 import 'package:clima/services/networking.dart';
 
-const apiKey = "5376d3acb8fb6330e1e3f2d1a2f55660";
+const apiKey = "------OPEN WEATHER MAP API KEY MUST BE WRITTEN-------";
 const openWeatherMapUrl = "https://api.openweathermap.org/data/2.5/weather";
 
 class WeatherModel {
